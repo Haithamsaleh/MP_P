@@ -6,7 +6,7 @@ and the other users commint on the post to help or even arrange meeting to disco
 
 
 
-##User Story 
+## User Story 
 
 - **Signup:**  user can sign up in the platform so that the user can start posts and reply to athers posts  
 - **Login:**  user can login to the platform so that the user can see his oun posts and reply to the comments on  it 
